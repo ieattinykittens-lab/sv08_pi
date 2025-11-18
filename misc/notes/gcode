@@ -1,0 +1,6 @@
+# Force z move
+
+G90
+SET_KINEMATIC_POSITION Z=0
+G0 Z10 F100
+M84

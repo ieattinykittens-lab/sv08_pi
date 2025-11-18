@@ -1,0 +1,1 @@
+sudo raspiBackup -m detailed
